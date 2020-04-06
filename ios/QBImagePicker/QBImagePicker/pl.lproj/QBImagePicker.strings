@@ -1,7 +1,7 @@
 /*
  QBImagePicker.strings
  QBImagePicker
- 
+
  Created by Katsuma Tanaka on 2015/04/03.
  Copyright (c) 2015 Katsuma Tanaka. All rights reserved.
  */
@@ -17,5 +17,5 @@
 "assets.footer.photo-and-videos" = "%ld zdjęcie, %ld wideo";
 "assets.footer.photos-and-videos" = "Zdjęć: %ld, %ld wideo";
 
-"assets.toolbar.item-selected" = "%ld zaznaczona rzecz";
-"assets.toolbar.items-selected" = "Zaznaczonych rzeczy: %ld";
+"assets.toolbar.item-selected" = "%ld/%ld zaznaczona rzecz";
+"assets.toolbar.items-selected" = "Zaznaczonych rzeczy: %ld/%ld";
